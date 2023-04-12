@@ -1,4 +1,5 @@
-"""2021-05-28"""
+"""2021-05-28
+Listen to the recording here: https://soundcloud.com/rokil-1/dumb_dub"""
 
 var.v = Pvar([4, 7, 2, 0])
 var.c = var([2, 5, 2, 7])

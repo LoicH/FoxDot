@@ -1,4 +1,7 @@
-"""2021-06-13"""
+"""2021-06-13
+My cover of M.O.O.N. - 'Hydrogen' (Hotline Miami Soundtrack)
+Listen my recording here: https://soundcloud.com/rokil-1/oxygen
+"""
 
 Clock.bpm = 127
 Scale.default = "minor"
