@@ -1,6 +1,6 @@
 """2023-04-13
 Late night session
-Listen the recording here: https://soundcloud.com/rokil-1/ambient
+Listen to the recording here: https://soundcloud.com/rokil-1/ambient
 """
 
 
